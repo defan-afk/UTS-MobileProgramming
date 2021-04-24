@@ -1,0 +1,2 @@
+getar/uts18090023/NmusikStore/BuildConfig.java
+ getar.uts18090023.NmusikStore.BuildConfig

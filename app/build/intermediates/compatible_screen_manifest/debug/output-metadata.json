@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "getar.uts18090023.NmusikStore",
+  "variantName": "debug",
+  "elements": []
+}
